@@ -3,15 +3,15 @@ export default class SessionService {
 
     }
 
-    startOne() {
+    async startNew() {
+        
+    }
+
+    async startAll() {
 
     }
 
-    startAll() {
-
-    }
-
-    new() {
+    async new() {
 
     }
 }
